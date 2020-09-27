@@ -1,4 +1,4 @@
-Use this repo as a branch playground and I can mess with it.
+Use this hello as a branch playground and I can mess with it.
 
 testing
 
